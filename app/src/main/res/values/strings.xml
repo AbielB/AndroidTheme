@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">
+        Samsung Electronics Indonesia kembali meluncurkan produk terbarunya di Indonesia,Galaxy S20 FE Snapdragon. Prosesor Snapdragon 865 yang dimiliki besutan Qualcomm. Samsung Galaxy S20 Fan Edition (FE) akan mulai tersedia di website Samsung Indonesia 1 Juli 2021.
+    </string>
+    <string name="content_specs_display">6.5 inches\n
+    FHD Super AMOLED at 407ppi\n
+    orning® Gorilla® Glass 3</string>
+    <string name="content_specs_size">159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in)</string>
+    <string name="content_specs_battery">Battery: 4,500 mAh\nCamera: 12 MP, f/1.8, 26mm (wide), 1/1.76", 1.8µm, Dual Pixel PDAF, OIS 8 MP, f/2.4, 76mm (telephoto), 1/4.5", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0", 1.12µm\nChipset: Qualcomm SM8250 Snapdragon 865 5G (7 nm+)\nGPU: Adreno 650\nCharging: 25W wired, PD3.0</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Achmad Abiel Bahyria</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp.7.999.000</string>
+    <string name="dummy_photos">4 photos</string>
+    <string name="call">Call CS</string>
+    <string name="berhasil">Pembelian Berhasil!</string>
+</resources>
